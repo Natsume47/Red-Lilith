@@ -1,2 +1,2 @@
-# Red-Lilith
-Traducción de Red bot, en estado BETA. Haga respaldo de los archivos anteriores.
+# Red-Lilith ES
+Traducción de Red bot, en estado ALPHA. Haga respaldo de los archivos anteriores.
